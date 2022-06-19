@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/neutral-abstract-texture-simple-background_53876-101899.jpg?w=1800&t=st=1655648690~exp=1655649290~hmac=d538ef3cb67bb383ee8d1b31fe3503cf317674249ab013976a6112226e008792);
+    background-size: cover;
+    font-family: "Optima";
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.smaller-image {
+    width: 400px;
+    border: 10px solid black;
+}
+
+h2 {
+    font-size: 100px;
+    color: rgb(8, 146, 109);
+    text-align: center;
+}
+h3 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(53, 67, 119);
+}
+
+ul {
+    font-size: 20px;
+    color: rgb(53, 67, 119)
+}
